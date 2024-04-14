@@ -1,0 +1,1 @@
+HOST = "http://rest.test.ivi.ru/v2"
